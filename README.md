@@ -1,6 +1,6 @@
 # JuliaTokyo #3
 
-Juliaでしばらく音声信号処理をやってみた
+Juliaでしばらく音声信号処理をやってみた at [JuliaTokyo #3](juliatokyo.connpass.com/event/13218/)
 
 ## リンク
 
